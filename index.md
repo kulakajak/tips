@@ -745,6 +745,8 @@ Other
 * jquery plugins
   * [jbox](http://stephanwagner.me/jBox) notifications, popups ...
   * "One minute ago" can be updated automatically in this [timeago](http://timeago.yarp.com/) plugin
+  * [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) to copy some text on click
+  * [tokenize](http://zellerda.com/projects/jquery/tokenize) for tags, preselecting items
 * javascript
   * [jsPDF](https://github.com/MrRio/jsPDF) pdf generator [examples](http://mrrio.github.io/jsPDF/#)
   * [graphs gallery](https://github.com/mbostock/d3/wiki/Gallery) and [http://bl.ocks.org/mbostock](http://bl.ocks.org/mbostock) [slider](http://square.github.io/crossfilter/) [people](http://www.findtheconversation.com/concept-map/#population) [parallel](http://exposedata.com/parallel/)
